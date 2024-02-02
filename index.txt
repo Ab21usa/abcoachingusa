@@ -1,0 +1,62 @@
+<html>
+ <head>
+   <title>Welcome AB Coaching </title>
+   <style>
+    body {
+       background: powderblue;
+      }
+   </style>
+</head>
+<body>
+
+ <h1 style="color:Green;"> <h1 style="text-align:center;">Start Your Training Today! <h1 style="font-size:500%;" </h1>
+
+<button> Contacts </button>
+
+
+<img src="pic/coaching.PNG" width="300" alt="Team picture">
+
+
+
+<h2 style="color:brown;" >Hours!</h2>
+<table border="1" style="background-color: black">
+	<tr align="center" style="background-color: Blue">
+		<th width="100"> Sunday </th>
+		<th width="100"> Monday </th>
+		<th width="100"> Tuesday </th>
+		<th width="100"> Wednesday </th>
+		<th width="100">Thursday </th>
+		<th width="100"> Friday </th>
+		<th width="100"> Saturday </th>
+	<tr>
+
+	<tr align="center" style="background-color: skyblue">
+		<td> Closed</td>
+		<td> 3-11</td>
+		<td> 3-11</td>
+		<td> 3-11</td>
+		<td> 3-11</td>
+		<td> 3-11</td>
+		<td> 3-11</td>
+
+
+<tr>
+<table>
+
+<h3>Visit US!</h3>
+<p style="color:black;"</P> <P a href="https://www.ABCoaching21.com/">www.ABCoaching21.com</a></p>
+
+
+<h1 style="color:brown;">About me!</h1>
+
+
+<p style="background-color:brown;">I was born in Pakistan but I started my hardball cricket in the usa back in 2004. I do remember joining a few close friends from high school to play some pick up / parking lot cricket. Later I found out there is a cricket league. I joined Washington Cricket League in 2005. I played for a club called Stars Cricket Club in Division II. In short time, I gained more interest and pursed cricket full time. I moved up to Division to play for a club called Bengals Cricket Club. I started practicing with Elite players from my league to improve my game and push myself. I came across a few players who were playing for the USA Men's National Cricet Team. I started day dreaming about playing at the highest level in this county. I began competing and took my training very seriously to a point that I would not miss practices which jeopardized my studies for time being. However, I managed it. A few years later, in 2012 I went through all the obstacles and debut for the USA Team. I went on to represent the USA Team for a few years. My last tour with the USA Team was in 2018. In the excitiment of the Word Cup T20 in 2024, I have decided to make a comeback. I have started training hard on my fitness at a 39 years old. Stay Tune for the results. InshALLAH I got this.  
+</p>
+
+<h2 style="color:red;" >Contact us! </h2>
+<p style="color:red;">240-505-6165 </p>
+ 
+
+
+</body>
+</html>
